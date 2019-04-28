@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionMediatorLibrary", "ExceptionMediatorExtensions\ExceptionMediatorLibrary.csproj", "{54922EA9-12C0-491A-988D-81212143967E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionMediator.Tests", "ExceptionMediator.Tests\ExceptionMediator.Tests.csproj", "{234F94B2-2A5E-4E94-A20B-C0604C0B8221}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54922EA9-12C0-491A-988D-81212143967E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54922EA9-12C0-491A-988D-81212143967E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54922EA9-12C0-491A-988D-81212143967E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54922EA9-12C0-491A-988D-81212143967E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{234F94B2-2A5E-4E94-A20B-C0604C0B8221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234F94B2-2A5E-4E94-A20B-C0604C0B8221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234F94B2-2A5E-4E94-A20B-C0604C0B8221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234F94B2-2A5E-4E94-A20B-C0604C0B8221}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AA5CAD2-BA95-4DBD-A796-67D5FA6489ED}
+	EndGlobalSection
+EndGlobal
